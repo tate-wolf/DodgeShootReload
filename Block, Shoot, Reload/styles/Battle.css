@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    background: rgb(0,3,36);
+    background: linear-gradient(90deg, rgb(86, 1, 1) 0%, rgb(108, 1, 1) 15%, rgb(15, 0, 176) 35%, rgb(10, 0, 117) 50%);
+}
+
+.cowboys {
+    opacity: 1;
+}
+.button-containerP1 {
+    width: 250px;
+    background: rgb(231, 0, 0);
+    color:white;
+    text-align: right;
+}
+
+.button-containerP2 {
+    width: 250px;
+    background: rgb(0, 0, 231);
+    text-align: right;
+    color: white;
+}
+
+.game-canvas {
+    border: 1px solid white; width: 800px; 
+}
+
